@@ -1,0 +1,49 @@
+.container {
+  background-color: #bbddd542;
+  height: 400px;
+  width: 100%;
+  margin: auto;
+}
+.name-designation h2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 200px;
+  font-size: 90px;
+  padding-top: 100px;
+  display: inline-block;
+}
+
+.name-designation h4 {
+  color: rgba(230, 158, 25, 0.788);
+  margin-left: 200px;
+  font-size: 30px;
+  display: block;
+}
+
+.contact-details {
+  font-size: 20px;
+  float: right;
+  margin-right: 250px;
+  padding-bottom: 100px;
+  margin-top: -115px;
+}
+
+.contact-details li {
+  padding: 7px;
+  font-weight: 750;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* ******************************objective********************************** */
+.objective-container {
+  background-color: rgba(156, 158, 160, 0.219);
+  height: 300px;
+  width: 100%;
+}
+.objective-container h2 {
+  padding: 30px 0px 0px 30px;
+  text-decoration: underline;
+}
+.objective-container p {
+  padding: 10px 40px 0px 40px;
+  /* text-decoration: underline; */
+}

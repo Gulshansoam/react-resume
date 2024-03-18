@@ -1,0 +1,34 @@
+.navbar-container {
+  background-color: rgba(12, 6, 0, 0.91); /* Corrected rgba value */
+  height: 80px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center; /* Added alignment for centering items vertically */
+}
+
+.navbar-container ul {
+  list-style-type: none; /* Remove bullet points from list items */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-container ul li {
+  margin: 0 40px; /* Adjust margin as needed */
+  color: aliceblue;
+  cursor: pointer;
+}
+.navbar-container ul li::hover {
+  margin: 0 40px;
+  color: aliceblue;
+}
+
+.image-logo img {
+  height: 80px; /* You don't need to specify color for height */
+}
+
+.image-logo p {
+  color: rgba(243, 248, 247, 0.9); /* Corrected rgba value */
+  margin: 0; /* Removed unnecessary margin */
+}
