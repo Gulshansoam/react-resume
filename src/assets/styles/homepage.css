@@ -41,9 +41,17 @@
 }
 .objective-container h2 {
   padding: 30px 0px 0px 30px;
+}
+.objective-container h2 span {
   text-decoration: underline;
 }
 .objective-container p {
   padding: 10px 40px 0px 40px;
+  line-height: 1.5em;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: large;
+  
+
   /* text-decoration: underline; */
 }
